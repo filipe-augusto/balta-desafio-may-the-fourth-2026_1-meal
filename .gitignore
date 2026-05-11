@@ -480,3 +480,7 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+/.vs/Desafio_1.slnx/v18/.suo
+/.vs/Desafio_1.slnx/v18/DocumentLayout.backup.json
+/.vs/Desafio_1.slnx/v18/DocumentLayout.json
+/Desafio_1.Ai/Class1.cs

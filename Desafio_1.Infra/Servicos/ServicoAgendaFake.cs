@@ -1,8 +1,5 @@
 ﻿using Desafio_1.Core.Contracts;
 using Desafio_1.Core.Models;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Desafio_1.Infra.Servicos;
 

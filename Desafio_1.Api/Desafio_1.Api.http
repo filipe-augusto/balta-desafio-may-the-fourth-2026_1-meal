@@ -1,0 +1,18 @@
+@host  = http://localhost:5020
+
+POST {{host}}/receitas/sugerir
+Content-Type: application/json
+Accept: application/json
+
+{
+  "ingredientes": [
+    "ovo",
+    "frango",
+    "queijo",
+    "tomate",
+    "macarrão"
+  ]
+}
+
+
+###

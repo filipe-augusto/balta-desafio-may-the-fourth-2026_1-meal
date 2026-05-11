@@ -7,7 +7,7 @@ using System.Text.Json;
 namespace Desafio_1.Ai.Agentes;
 
 
-internal class ServicoReceitaIA(IChatClient clienteChat) : IServicoReceitaIA
+public class ServicoReceitaIA(IChatClient clienteChat) : IServicoReceitaIA
 {
 
     private readonly IChatClient _clienteChat = clienteChat;
