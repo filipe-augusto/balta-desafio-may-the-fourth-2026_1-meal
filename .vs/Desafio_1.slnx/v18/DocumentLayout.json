@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\balta-desafio-may-the-fourth-2026_1-meal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6717102-11D6-4706-9570-EF6690CE8572}|Desafio_1.Ai\\Desafio_1.Ai.csproj|c:\\users\\admin\\source\\repos\\balta-desafio-may-the-fourth-2026_1-meal\\desafio_1.ai\\agentes\\servicoreceitaia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6717102-11D6-4706-9570-EF6690CE8572}|Desafio_1.Ai\\Desafio_1.Ai.csproj|solutionrelative:desafio_1.ai\\agentes\\servicoreceitaia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4E09B-E390-440C-B34F-616313FF19EE}|Desafio_1.Infra\\Desafio_1.Infra.csproj|c:\\users\\admin\\source\\repos\\balta-desafio-may-the-fourth-2026_1-meal\\desafio_1.infra\\servicos\\servicoagendafake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE4E09B-E390-440C-B34F-616313FF19EE}|Desafio_1.Infra\\Desafio_1.Infra.csproj|solutionrelative:desafio_1.infra\\servicos\\servicoagendafake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8F9937-0280-4320-80DB-E60BF2CA064A}|Desafio_1.Core\\Desafio_1.Core.csproj|c:\\users\\admin\\source\\repos\\balta-desafio-may-the-fourth-2026_1-meal\\desafio_1.core\\contracts\\iservicoagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8F9937-0280-4320-80DB-E60BF2CA064A}|Desafio_1.Core\\Desafio_1.Core.csproj|solutionrelative:desafio_1.core\\contracts\\iservicoagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8F9937-0280-4320-80DB-E60BF2CA064A}|Desafio_1.Core\\Desafio_1.Core.csproj|c:\\users\\admin\\source\\repos\\balta-desafio-may-the-fourth-2026_1-meal\\desafio_1.core\\contracts\\iservicoreceitaia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8F9937-0280-4320-80DB-E60BF2CA064A}|Desafio_1.Core\\Desafio_1.Core.csproj|solutionrelative:desafio_1.core\\contracts\\iservicoreceitaia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicoReceitaIA.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\balta-desafio-may-the-fourth-2026_1-meal\\Desafio_1.Ai\\Agentes\\ServicoReceitaIA.cs",
+              "RelativeDocumentMoniker": "Desafio_1.Ai\\Agentes\\ServicoReceitaIA.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\balta-desafio-may-the-fourth-2026_1-meal\\Desafio_1.Ai\\Agentes\\ServicoReceitaIA.cs",
+              "RelativeToolTip": "Desafio_1.Ai\\Agentes\\ServicoReceitaIA.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T00:35:18.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IServicoAgenda.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\balta-desafio-may-the-fourth-2026_1-meal\\Desafio_1.Core\\Contracts\\IServicoAgenda.cs",
+              "RelativeDocumentMoniker": "Desafio_1.Core\\Contracts\\IServicoAgenda.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\balta-desafio-may-the-fourth-2026_1-meal\\Desafio_1.Core\\Contracts\\IServicoAgenda.cs",
+              "RelativeToolTip": "Desafio_1.Core\\Contracts\\IServicoAgenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T00:10:55.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicoAgendaFake.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\balta-desafio-may-the-fourth-2026_1-meal\\Desafio_1.Infra\\Servicos\\ServicoAgendaFake.cs",
+              "RelativeDocumentMoniker": "Desafio_1.Infra\\Servicos\\ServicoAgendaFake.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\balta-desafio-may-the-fourth-2026_1-meal\\Desafio_1.Infra\\Servicos\\ServicoAgendaFake.cs",
+              "RelativeToolTip": "Desafio_1.Infra\\Servicos\\ServicoAgendaFake.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T00:06:51.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServicoReceitaIA.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\balta-desafio-may-the-fourth-2026_1-meal\\Desafio_1.Core\\Contracts\\IServicoReceitaIA.cs",
+              "RelativeDocumentMoniker": "Desafio_1.Core\\Contracts\\IServicoReceitaIA.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\balta-desafio-may-the-fourth-2026_1-meal\\Desafio_1.Core\\Contracts\\IServicoReceitaIA.cs",
+              "RelativeToolTip": "Desafio_1.Core\\Contracts\\IServicoReceitaIA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T00:05:40.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

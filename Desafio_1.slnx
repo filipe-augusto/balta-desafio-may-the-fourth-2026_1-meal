@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Desafio_1.Ai/Desafio_1.Ai.csproj" Id="e6717102-11d6-4706-9570-ef6690ce8572" />
+  <Project Path="Desafio_1.Core/Desafio_1.Core.csproj" Id="ba8f9937-0280-4320-80db-e60bf2ca064a" />
+  <Project Path="Desafio_1.Infra/Desafio_1.Infra.csproj" Id="8be4e09b-e390-440c-b34f-616313ff19ee" />
+</Solution>
